@@ -1,0 +1,10 @@
+{
+  "name": "ts-basics",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  }
+}
